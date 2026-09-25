@@ -1,12 +1,4 @@
 <!DOCTYPE html>
-<meta name="google-site-verification" content="Zgm3Kyt2-p8AlmAmUHJEKkWX6sy6Nv3ZLJO8k6luqeo" />
-google-site-verification=eiZAEA4uVNyC0DrBdyJXB-0BCE8AfyXWFJE1XUW0_Z0
-<html lang="en">
-<head><meta name="google-site-verification" content="Zgm3Kyt2-p8AlmAmUHJEKkWX6sy6Nv3ZLJO8k6luqeo" />
-<meta name="google-site-verification" content="Zgm3Kyt2-p8AlmAmUHJEKkWX6sy6Nv3ZLJO8k6luqeo" />
-<meta name="google-site-verification" content="Zgm3Kyt2-p8AlmAmUHJEKkWX6sy6Nv3ZLJO8k6luqeo" />
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Creator Ansh — Digital Marketing & Creative Studio</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
